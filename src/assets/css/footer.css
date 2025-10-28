@@ -1,0 +1,117 @@
+.footer-section{
+    margin-top: 100px;
+    background-color: #262526;
+    color: white;
+  
+    height: auto;
+}
+.contact-title{
+margin-top: 60px;
+font-weight: bold;
+color: #ffffff;
+}.contact-hr{
+  width: 30%;
+  border: 0;
+  height: 2px;
+  background: white;
+}
+.contact-form .custom-input{
+   color: white !important;
+    width:60%;
+    height: 55px;
+    font-size: 16px;
+   padding: 10px 8px;
+    background-color: transparent !important;
+    border-bottom: 1px solid white !important;
+    border: 0px;
+    text-transform: uppercase;
+}
+.contact-form .custom-input:focus {
+  outline: none;
+  box-shadow: none;
+
+}
+.btn-pink{
+    border: none;
+    background-color: #fc95c4 !important;
+    color: white !important;
+    padding: 10px 50px !important;
+    border-radius: 0 !important;
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    -ms-border-radius: 0 !important;
+    -o-border-radius: 0 !important;
+  
+}
+.btn-pink:hover {
+ background-color: whitesmoke !important;
+  color: black !important;
+    transition: 1s ease;
+    -webkit-transition: 1s ease;
+    -moz-transition: 1s ease;
+    -ms-transition: 1s ease;
+    -o-transition: 1s ease;
+}
+
+.contact-info-wrap .items {
+    margin-top: 60px;
+ padding: 10px;
+  align-items: center;
+  margin-bottom: 150px;
+  
+}
+.info-icon1{
+color: #fc95c4;
+font-size: 2 rem;
+margin:3px;
+}
+.info-icon{
+    color: white;
+font-size: 1.5 rem;
+margin:3px;
+}
+.info-icon:hover{
+    color: #fc95c4;
+    transition: 1s ease;
+    -webkit-transition: 1s ease;
+    -moz-transition: 1s ease;
+    -ms-transition: 1s ease;
+    -o-transition: 1s ease;
+}
+.newsletter-input{
+    border-radius:0 !important;
+    -webkit-border-radius:0 !important;
+    -moz-border-radius:0 !important;
+    -ms-border-radius:0 !important;
+    -o-border-radius:0 !important;
+}
+.socials{
+    margin-left: 400px;
+   
+}
+.social-circle{
+    width:50px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.social-circle:hover{
+    background-color: #fc95c4;
+    color: white;
+    transition: 1s ease;
+    -webkit-transition: 1s ease;
+    -moz-transition: 1s ease;
+    -ms-transition: 1s ease;
+    -o-transition: 1s ease;
+}
+.contact-section p {
+    color: white !important;
+  font-size: 16px
+}

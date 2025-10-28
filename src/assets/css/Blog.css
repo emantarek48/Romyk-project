@@ -1,0 +1,42 @@
+.blog-section{
+    margin-top: 50px;
+     background-color:  #fff;
+   
+}
+.testimonial-box{
+  max-width: 900px;
+   position: relative;
+   
+}
+.blog-section h1{
+    text-align: center;
+}
+.carousel-item{
+    position: relative;
+    width: 70%;
+}
+.testimonial-box img {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+ 
+
+}
+
+.custom-arrow{
+    width:50px !important;
+    height:50px;
+    background-color: #fc95c4 !important;
+    top:45% !important;
+
+   
+}
+.custom-arrow:hover{
+    background-color: black !important;
+}
+.carousel-control-prev{
+    left: -65px !important;
+}
+.carousel-control-next{
+    right: -65px !important;
+}

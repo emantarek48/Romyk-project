@@ -1,0 +1,59 @@
+.services-section{
+    margin-top: 50px;
+}
+.container{
+    position: relative;
+}
+.color3{
+  width:90px;
+  height: 5px;
+  background-color: #f8c9de;
+  position: absolute;
+  left:37%;
+  top:10%;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.services-section .card{
+    border-color: #fc95c4 !important;
+    border-radius: none !important;
+    -webkit-border-radius: none !important;
+    -moz-border-radius: none !important;
+    -ms-border-radius: none !important;
+    -o-border-radius: none !important;
+}
+.btn-pink2,.btn-pink4 {
+ background-color: #fc95c4 !important;
+ color: white;
+ border: none;
+ padding: 15px 45px !important;
+ border-radius:10px !important;
+ font-weight: bold;
+ margin-left: 25% ;
+ margin-top: 40px;
+ -webkit-border-radius:10px !important;
+ -moz-border-radius:10px !important;
+ -ms-border-radius:10px !important;
+ -o-border-radius:10px !important;
+}
+
+.btn-pink2,.btn-pink4:hover {
+  background-color: black !important;
+  color: white !important;
+  transition: 0.3s ease;
+}
+ .btn-pink4{
+  display: block;
+  width:190px;
+    margin-left: 45% !important;
+    margin-top:20%px !important;
+   
+    text-align: center;
+}
+.btn-pink4 a{
+ text-decoration: none;
+ color: white;
+}

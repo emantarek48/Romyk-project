@@ -1,0 +1,99 @@
+.hero-section .carousel-inner{
+    background-image: url(../images/banner1-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hero-slide {
+  padding: 0 10% !important;
+  min-height: 90vh;
+height: auto;
+
+  margin-top: -70px !important;
+}
+
+.hero-text {
+  width: 45% !important;
+  padding-top: 8% !important;
+  padding-left: 10% !important;
+  font-size: 18px;
+}
+
+.hero-text h1 {
+ font-family: 'Poppins', sans-serif;
+  font-size: clamp(28px, 5vw, 60px);
+  color: #333;
+  font-weight: bold;
+}
+
+.hero-text p {
+ font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  color: #666;
+  margin: 20px 0;
+}
+
+.hero-img {
+  width: 80%;
+margin-top: 10%;
+margin-left:3%;
+  
+}
+
+.btn-pink {
+  background-color: #fc95c4;
+  color: white;
+  border: none;
+  padding: 15px 45px;
+  border-radius: 10px;
+  transition: 0.3s ease;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  font-weight: bold;
+}
+
+.btn-pink:hover {
+  background-color: whitesmoke;
+  color: black;
+}
+.carousel-indicators {
+  position: absolute;
+  top:60vh; 
+  left:2vw !important;
+}
+
+.carousel-indicators button {
+  background: none !important; 
+  border: none !important;     
+  color: #777;                 
+}
+
+.carousel-indicators .active {
+  color: #fc95c4 !important; 
+  
+}
+@media (max-width: 768px) {
+  .hero-slide {
+    flex-direction: column;
+    text-align: center;
+    padding: 5% !important;
+  }
+
+  .hero-text {
+    width: 100% !important;
+    padding: 0 !important;
+  }
+
+  .hero-img {
+    width: 90%;
+    margin: 20px auto 0;
+  }
+
+  .carousel-indicators {
+    top: 85vh;
+    left: 50%;
+  }
+}
+
