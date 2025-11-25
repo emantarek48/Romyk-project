@@ -26,12 +26,12 @@ function Footer(){
 
 <div className='mb-4'>
    
-    <input name='email' value={form.email} onChange={handlechange} className=" custom-input" placeholder='Email' required></input>
+    <input name='email' type='email' value={form.email} onChange={handlechange} className=" custom-input" placeholder='Email' required></input>
 </div>
 
 <div className='mb-4'>
 
-    <input name='phone' value={form.phone} onChange={handlechange} className=" custom-input" placeholder='Phone Number' required></input>
+    <input name='phone' type='tel' value={form.phone} onChange={handlechange} className=" custom-input" placeholder='Phone Number' required></input>
 </div>
 
 <div className='mb-4'>
@@ -61,16 +61,18 @@ function Footer(){
               <h5 className="fw-bold">Newsletter</h5>
               <div className="d-flex mt-4 newsletter">
                 <input type="email" placeholder="Enter your email" className="form-control newsletter-input"/>
-                <button className="btn btn-pink px-4">Subscribe</button>
-                
+               
+                <div className="btn-pink newsletter-btn">
+        <a href='/'>Subscribe</a>
+      </div>
               </div>
             </div>
             <div className="socials mt-5">
               <div className="d-flex gap-3 justify-content-center ">
-                <a className="social-circle"><FaFacebookF/></a>
-                <a className="social-circle"><FaTwitter/></a>
-                <a className="social-circle"><FaLinkedinIn/></a>
-                <a className="social-circle"><FaInstagram/></a>
+                <a className="social-circle" href="/" aria-label="Facebook"><FaFacebookF/></a>
+                <a className="social-circle" href="/" aria-label="Twitter"><FaTwitter/></a>
+                <a className="social-circle" href="/" aria-label="Linledin"><FaLinkedinIn/></a>
+                <a className="social-circle" href="/" aria-label="Instagram"><FaInstagram/></a>
               </div>
             </div>
         </div>

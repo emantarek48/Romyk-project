@@ -1,6 +1,5 @@
 import React from 'react'
 import { FaIceCream } from "react-icons/fa";
-import { Link } from "react-router-dom";
 import"../assets/css/services.css"
 function Services() {
   return (
@@ -42,7 +41,7 @@ function Services() {
 </div>
  
    <div className="btn-pink4">
-        <a href='#'>Show More</a>
+        <a href='/'>Show More</a>
       </div>
 
    </section>

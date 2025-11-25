@@ -21,7 +21,7 @@ function About() {
     esse cillum dolore euconsectetur adipiscing esequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu</p>
      
       <div className="btn-pink">
-        <a href='#'>Read More</a>
+        <a href='/'>Read More</a>
       </div>
      
  
