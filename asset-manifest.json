@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Romyk-project/static/css/main.3a5f46e9.css",
-    "main.js": "/Romyk-project/static/js/main.a1c37cfb.js",
-    "static/js/453.be6977cc.chunk.js": "/Romyk-project/static/js/453.be6977cc.chunk.js",
-    "static/media/bannerimg1.png": "/Romyk-project/static/media/bannerimg1.0730b13b71e4c578a35a.png",
-    "static/media/bannerimg2.png": "/Romyk-project/static/media/bannerimg2.0730b13b71e4c578a35a.png",
-    "static/media/bannerimg3.png": "/Romyk-project/static/media/bannerimg3.0730b13b71e4c578a35a.png",
-    "static/media/about-img.png": "/Romyk-project/static/media/about-img.8f9bf9dedf84ffe0b4d5.png",
-    "static/media/bootstrap-icons.woff?": "/Romyk-project/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
-    "static/media/bootstrap-icons.woff2?": "/Romyk-project/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
-    "static/media/client-img.png": "/Romyk-project/static/media/client-img.27e7ba6d6edb006dc67a.png",
-    "static/media/banner1-bg.png": "/Romyk-project/static/media/banner1-bg.1b34140a1c4921b0cd9e.png",
-    "index.html": "/Romyk-project/index.html",
-    "main.3a5f46e9.css.map": "/Romyk-project/static/css/main.3a5f46e9.css.map",
-    "main.a1c37cfb.js.map": "/Romyk-project/static/js/main.a1c37cfb.js.map",
-    "453.be6977cc.chunk.js.map": "/Romyk-project/static/js/453.be6977cc.chunk.js.map"
+    "main.css": "./static/css/main.823e63f7.css",
+    "main.js": "./static/js/main.3f5fae55.js",
+    "static/js/453.be6977cc.chunk.js": "./static/js/453.be6977cc.chunk.js",
+    "static/media/bannerimg1.png": "./static/media/bannerimg1.0730b13b71e4c578a35a.png",
+    "static/media/bannerimg2.png": "./static/media/bannerimg2.0730b13b71e4c578a35a.png",
+    "static/media/bannerimg3.png": "./static/media/bannerimg3.0730b13b71e4c578a35a.png",
+    "static/media/about-img.png": "./static/media/about-img.8f9bf9dedf84ffe0b4d5.png",
+    "static/media/bootstrap-icons.woff?": "./static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "./static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/client-img.png": "./static/media/client-img.27e7ba6d6edb006dc67a.png",
+    "static/media/banner1-bg.png": "./static/media/banner1-bg.1b34140a1c4921b0cd9e.png",
+    "index.html": "./index.html",
+    "main.823e63f7.css.map": "./static/css/main.823e63f7.css.map",
+    "main.3f5fae55.js.map": "./static/js/main.3f5fae55.js.map",
+    "453.be6977cc.chunk.js.map": "./static/js/453.be6977cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a5f46e9.css",
-    "static/js/main.a1c37cfb.js"
+    "static/css/main.823e63f7.css",
+    "static/js/main.3f5fae55.js"
   ]
 }
