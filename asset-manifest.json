@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/romyk/static/css/main.a0bf985e.css",
+    "main.js": "/romyk/static/js/main.474c699e.js",
+    "static/js/453.be6977cc.chunk.js": "/romyk/static/js/453.be6977cc.chunk.js",
+    "static/media/bannerimg1.png": "/romyk/static/media/bannerimg1.0730b13b71e4c578a35a.png",
+    "static/media/bannerimg2.png": "/romyk/static/media/bannerimg2.0730b13b71e4c578a35a.png",
+    "static/media/bannerimg3.png": "/romyk/static/media/bannerimg3.0730b13b71e4c578a35a.png",
+    "static/media/about-img.png": "/romyk/static/media/about-img.8f9bf9dedf84ffe0b4d5.png",
+    "static/media/bootstrap-icons.woff?": "/romyk/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/romyk/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/client-img.png": "/romyk/static/media/client-img.27e7ba6d6edb006dc67a.png",
+    "static/media/banner1-bg.png": "/romyk/static/media/banner1-bg.1b34140a1c4921b0cd9e.png",
+    "index.html": "/romyk/index.html",
+    "main.a0bf985e.css.map": "/romyk/static/css/main.a0bf985e.css.map",
+    "main.474c699e.js.map": "/romyk/static/js/main.474c699e.js.map",
+    "453.be6977cc.chunk.js.map": "/romyk/static/js/453.be6977cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0bf985e.css",
+    "static/js/main.474c699e.js"
+  ]
+}
