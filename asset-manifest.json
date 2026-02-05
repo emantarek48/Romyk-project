@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/romyk/static/css/main.a0bf985e.css",
-    "main.js": "/romyk/static/js/main.474c699e.js",
-    "static/js/453.be6977cc.chunk.js": "/romyk/static/js/453.be6977cc.chunk.js",
-    "static/media/bannerimg1.png": "/romyk/static/media/bannerimg1.0730b13b71e4c578a35a.png",
-    "static/media/bannerimg2.png": "/romyk/static/media/bannerimg2.0730b13b71e4c578a35a.png",
-    "static/media/bannerimg3.png": "/romyk/static/media/bannerimg3.0730b13b71e4c578a35a.png",
-    "static/media/about-img.png": "/romyk/static/media/about-img.8f9bf9dedf84ffe0b4d5.png",
-    "static/media/bootstrap-icons.woff?": "/romyk/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
-    "static/media/bootstrap-icons.woff2?": "/romyk/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
-    "static/media/client-img.png": "/romyk/static/media/client-img.27e7ba6d6edb006dc67a.png",
-    "static/media/banner1-bg.png": "/romyk/static/media/banner1-bg.1b34140a1c4921b0cd9e.png",
-    "index.html": "/romyk/index.html",
-    "main.a0bf985e.css.map": "/romyk/static/css/main.a0bf985e.css.map",
-    "main.474c699e.js.map": "/romyk/static/js/main.474c699e.js.map",
-    "453.be6977cc.chunk.js.map": "/romyk/static/js/453.be6977cc.chunk.js.map"
+    "main.css": "/Romyk-project/static/css/main.3a5f46e9.css",
+    "main.js": "/Romyk-project/static/js/main.a1c37cfb.js",
+    "static/js/453.be6977cc.chunk.js": "/Romyk-project/static/js/453.be6977cc.chunk.js",
+    "static/media/bannerimg1.png": "/Romyk-project/static/media/bannerimg1.0730b13b71e4c578a35a.png",
+    "static/media/bannerimg2.png": "/Romyk-project/static/media/bannerimg2.0730b13b71e4c578a35a.png",
+    "static/media/bannerimg3.png": "/Romyk-project/static/media/bannerimg3.0730b13b71e4c578a35a.png",
+    "static/media/about-img.png": "/Romyk-project/static/media/about-img.8f9bf9dedf84ffe0b4d5.png",
+    "static/media/bootstrap-icons.woff?": "/Romyk-project/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/Romyk-project/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/client-img.png": "/Romyk-project/static/media/client-img.27e7ba6d6edb006dc67a.png",
+    "static/media/banner1-bg.png": "/Romyk-project/static/media/banner1-bg.1b34140a1c4921b0cd9e.png",
+    "index.html": "/Romyk-project/index.html",
+    "main.3a5f46e9.css.map": "/Romyk-project/static/css/main.3a5f46e9.css.map",
+    "main.a1c37cfb.js.map": "/Romyk-project/static/js/main.a1c37cfb.js.map",
+    "453.be6977cc.chunk.js.map": "/Romyk-project/static/js/453.be6977cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0bf985e.css",
-    "static/js/main.474c699e.js"
+    "static/css/main.3a5f46e9.css",
+    "static/js/main.a1c37cfb.js"
   ]
 }
