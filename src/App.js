@@ -7,6 +7,7 @@ import Featured from "./components/Featured";
 import Services from "./components/Services";
 import Blog from "./components/Blog";
 import Footer from "./components/Footer";
+
 function App() {
   return (
     <>
@@ -20,24 +21,21 @@ function App() {
             <>
               <Hero />
               <About />
-              <Featured/>
-             <Services/>
-             <Blog/>
-            <Footer/>
+              <Featured />
+              <Services />
+              <Blog />
+              <Footer />
             </>
           }
         />
 
-        
+        {/* صفحات أخرى */}
         <Route path="/about" element={<About />} />
-         <Route path="/featured" element={<Featured />} />
-         <Route path="/services" element={<Services />} />
-         <Route path="/blog" element={<Blog />} />
-          <Route path="/footer" element={<Footer />} />
-         
+        <Route path="/featured" element={<Featured />} />
+        <Route path="/services" element={<Services />} />
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/footer" element={<Footer />} />
       </Routes>
-       
-      
     </>
   );
 }

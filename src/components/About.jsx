@@ -1,7 +1,7 @@
 import React from 'react'
 import"../assets/css/About.css"
 import aboutimg from '../assets/images/about-img.png'
-import { Link } from "react-router-dom";
+
 
 function About() {
   return (

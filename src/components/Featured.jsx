@@ -48,7 +48,7 @@ setvisibleCards((prevCard)=>prevCard+6);
                 </div>
                
                 <div className="btn-pink2">
-        <a href='#'>Add To Cart</a>
+        <a href='/featured'>Add To Cart</a>
       </div>
               </div>
             </div>
