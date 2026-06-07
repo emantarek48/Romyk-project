@@ -12,10 +12,13 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <>
+ 
       <NavBar />
 
       <Routes>
+
         {/* الصفحة الرئيسية */}
+       
         <Route
           path="/"
           element={
@@ -38,6 +41,7 @@ function App() {
         <Route path="/blog" element={<Blog />} />
         <Route path="/cart" element={<Cart />} />
         <Route path="/footer" element={<Footer />} />
+        <Route path="*" element={<h1>Page Not Found</h1>} />
       </Routes>
     </>
   );
