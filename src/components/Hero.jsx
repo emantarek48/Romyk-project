@@ -1,8 +1,7 @@
 import React from "react";
 import "../assets/css/Hero.css";
-import bannerimg1 from "../assets/images/bannerimg1.png";
-import bannerimg2 from "../assets/images/bannerimg2.png";
-import bannerimg3 from "../assets/images/bannerimg3.png";
+
+import CupOfCreamyCoffee from"../assets/images/CupOfCreamyCoffee.png";
 
 function Hero() {
   return (
@@ -22,15 +21,16 @@ function Hero() {
           <div className="container">
             <div className="row align-items-center">
               <div className="col-md-6 col-12 hero-text">
-                <h1>Ice<br />Cream</h1>
+                <h1>Fresh Coffee & Delicious Ice Cream</h1>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                 Enjoy premium coffee, refreshing drinks, and handcrafted ice cream flavors every day.
                 </p>
-                <button className="btn-pink">Order Now</button>
+                <a href="#featured" className="btn-pink">
+  Order Now
+</a>
               </div>
               <div className="col-md-6 col-12 text-center">
-                <img src={bannerimg1} alt="banner 1" className="img-fluid hero-img" />
+                <img src={CupOfCreamyCoffee} alt="banner 1" className="img-fluid hero-img" />
               </div>
             </div>
           </div>
@@ -41,16 +41,17 @@ function Hero() {
           <div className="container">
             <div className="row align-items-center">
               <div className="col-md-6 col-12 hero-text">
-                <h1>Ice<br />Cream</h1>
+               <h1>Fresh Coffee & Delicious Ice Cream</h1>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                 Enjoy premium coffee, refreshing drinks, and handcrafted ice cream flavors every day.
                 </p>
                 
-                <button className="btn-pink">Order Now</button>
+               <a href="#featured" className="btn-pink">
+  Order Now
+</a>
               </div>
               <div className="col-md-6 col-12 text-center">
-                <img src={bannerimg2} alt="banner 2" className="img-fluid hero-img" />
+                <img src={CupOfCreamyCoffee} alt="banner 2" className="img-fluid hero-img" />
               </div>
             </div>
           </div>
@@ -61,15 +62,16 @@ function Hero() {
           <div className="container">
             <div className="row align-items-center">
               <div className="col-md-6 col-12 hero-text">
-                <h1>Ice<br />Cream</h1>
+                 <h1>Fresh Coffee & Delicious Ice Cream</h1>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                 Enjoy premium coffee, refreshing drinks, and handcrafted ice cream flavors every day.
                 </p>
-                <button className="btn-pink">Order Now</button>
+               <a href="#featured" className="btn-pink">
+  Order Now
+</a>
               </div>
               <div className="col-md-6 col-12 text-center">
-                <img src={bannerimg3} alt="banner 3" className="img-fluid hero-img" />
+                <img src={CupOfCreamyCoffee} alt="banner 3" className="img-fluid hero-img" />
               </div>
             </div>
           </div>

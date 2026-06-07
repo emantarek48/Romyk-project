@@ -6,6 +6,7 @@ import About from "./components/About";
 import Featured from "./components/Featured";
 import Services from "./components/Services";
 import Blog from "./components/Blog";
+import Cart from "./components/Cart";
 import Footer from "./components/Footer";
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
               <Featured />
               <Services />
               <Blog />
+              
               <Footer />
             </>
           }
@@ -34,6 +36,7 @@ function App() {
         <Route path="/featured" element={<Featured />} />
         <Route path="/services" element={<Services />} />
         <Route path="/blog" element={<Blog />} />
+        <Route path="/cart" element={<Cart />} />
         <Route path="/footer" element={<Footer />} />
       </Routes>
     </>

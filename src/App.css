@@ -148,7 +148,11 @@ p { color: var(--color-muted); font-size: .95rem; }
 }
 
 .nav-links a:hover { background:#f1f5f9; }
-
+.cart-icon{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
 .hamburger {
   display: inline-flex;
   align-items:center;
@@ -182,6 +186,17 @@ p { color: var(--color-muted); font-size: .95rem; }
   gap: 1rem;
 }
 
+ .hero-img {
+   width: 100%;
+   max-width: 550px;
+   border-radius:90px ;
+   object-fit: cover;
+   -webkit-border-radius:90px ;
+   -moz-border-radius:90px ;
+   -ms-border-radius:90px ;
+   -o-border-radius:90px ;
+}
+
 .hero .hero-content { order: 1; }
 .hero .hero-media { order: 2; }
 
@@ -199,7 +214,9 @@ p { color: var(--color-muted); font-size: .95rem; }
   border: none;
   cursor: pointer;
 }
-
+.btn-pink{
+  text-decoration: none;
+}
 /* ===========================
    About / Featured / Services / Blog
    =========================== */
